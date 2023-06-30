@@ -5,7 +5,7 @@ ____
 ## About my interests.
 My main focus is developing in the .NET programming language. I am constantly researching new technologies and development trends to stay abreast of the latest innovations. I enjoy working with databases, web applications, and microservices.
 
-I am also interested in other programming languages such as Python and JavaScript, and am looking to expand my arsenal of skills to create more efficient and robust software solutions.
+I am also interested in other programming languages such as Python and JavaScript, Java, and am looking to expand my arsenal of skills to create more efficient and robust software solutions.
 ____
 ## My projects
 I am actively developing various projects to practice and apply my knowledge. In my GitHub profile you'll find some of my projects that display my skills and creative approach to programming. I'd be happy to get feedback and suggestions for improvement!
